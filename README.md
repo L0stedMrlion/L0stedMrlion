@@ -12,6 +12,7 @@
 > * **🌌 ChillMC** (1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**)
 > * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me)
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
+> * **🦁 Lion's Project - Discord bot** (My first discord bot, created in Discord.py)
 > * More projects soon!
 
 <h2 align="center">📱 Contact Me</h2>
