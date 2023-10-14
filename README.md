@@ -14,11 +14,6 @@
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
 > * **🦁 Lion's Project - Discord bot** (My first discord bot, created in discord.js)
 > * More projects soon!
-
-
-[![Lion's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/L0stedMrlion/github-readme-stats#gh-dark-mode-only)
-[![Lion's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/L0stedMrlion/github-readme-stats#gh-light-mode-only)
-
 <h2 align="center">📱 Contact Me</h2>
 <p align="middle">
 <a href="https://www.instagram.com/real.mrlion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a
