@@ -9,7 +9,8 @@
 
 <h2 align="center">💼 My Projects</h2>
 
-> * **🌌 ChillMC** (1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2019 - 2022)
+> * **🦁 Mrlion's Portfolio** (My portfolio, you can find it [here](https://mrlion.lionsproject.eu/)) 
+> * **🌌 ChillMC** (1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2021 - 2022)
 > * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me, 2022 - Now)
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
 > * **🦁 Lion's Project - Discord bot** (My first discord bot, created in discord.js)
