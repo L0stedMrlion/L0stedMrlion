@@ -22,8 +22,8 @@
 
 <h2 align="center">📊 My Stats</h2>
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L0stedMrlion&show_icons=true&locale=en&layout=compact" alt="Mrlion" />
-  <img src="https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&locale=en" alt="Mrlion" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L0stedMrlion&show_icons=true&locale=en&layout=compact" alt="Mrlion"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&locale=en" alt="Mrlion"/>
 </div>
 
 
