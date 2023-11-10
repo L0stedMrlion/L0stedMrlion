@@ -2,8 +2,9 @@
 <h3 align="center">Student & Developer from 🇨🇿 Czech Republic</h3>
 
   > 🦁 I'm a Lion
-  >
   > 👨‍🎓 I am currently learning HTML, CSS, JavaScript and more
+  > 🎥 Twitch Streamer
+  > ✉️ mrlion@lionsproject.eu
 
 <h2 align="center">💼 My Projects</h2>
 
