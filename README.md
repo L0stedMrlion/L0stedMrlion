@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrlion</h1>
-<h3 align="center">Student & Developer from 🇨🇿 Czech Republic</h3>
+<h2 align="center">Student & Developer from 🇨🇿 Czech Republic</h2>
 
   > 🦁 I'm a Lion
  >  
