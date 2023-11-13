@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mrlion</h1>
 <h2 align="center">Student & Developer from 🇨🇿 Czech Republic</h2>
+<h2 align="center">👀 About me</h2>
 
-  > 🦁 I'm a Lion
- >  
-  > 👨‍🎓 I am currently learning HTML, CSS, JavaScript and more
+> 🦁 I'm a Lion
 > 
-  > 🎥 Twitch Streamer
+> 👨‍🎓 I am currently learning HTML, CSS, JavaScript and more
 > 
-  > ✉️ mrlion@lionsproject.eu
-> 
+> 🎥 Twitch Streamer
+>
+
 <h2 align="center">🛠️ I use for my project</h2>
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
