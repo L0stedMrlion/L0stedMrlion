@@ -23,17 +23,18 @@
 
 <h2 align="center">💼 My Projects</h2>
 
-> * **🦁 Mrlion's Portfolio** (My portfolio, you can find it [here](https://l0stedmrlion.github.io/portfolio/)) 
-> * **🌌 ChillMC** (1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2021 - 2022)
+> * **🦁 Mrlion's Portfolio** (My portfolio, my first portfolio, you can find it [here](https://l0stedmrlion.github.io/portfolio/)) 
+> * **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2021 - 2022)
 > * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me, 2022 - Now)
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
-> * **🦁 Lion's Project - Discord bot** (My first discord bot, created in discord.js)
+> * **🦁 Lion's Project - Discord bot** (My first Discord bot, created in discord.js v14)
 <h2 align="center">📱 Socials</h2>
 <p align="center">
   <a href="mailto:mrlion@lionsproject.eu"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://twitter.com/lostedmrlion"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.com/users/710549603216261141"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
+  <a href="https://www.twitch.tv/lostedmrlion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"</a>
+  <a href="https://www.youtube.com/channel/UCY7VxDVOcwXRUyG-SUsDIOg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
+  <a href="https://twitter.com/lostedmrlion"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <h2 align="center">📊 My Stats</h2>
 <p align="center">
