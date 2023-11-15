@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mrlion</h1>
-<h2 align="center">Student & Developer from 🇨🇿 Czech Republic</h2>
+<h2 align="center">Student & Developer from Czech Republic</h2>
 <h2 align="center">👀 About me</h2>
 
 > 🦁 I'm a Lion
 > 
-> 👨‍🎓 I am currently learning HTML, CSS, JavaScript and more
+> 👨‍🎓 I am currently learning JS, TS and PHP
 > 
 > 🎥 Twitch Streamer
 >
@@ -28,6 +28,8 @@
 > * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me, 2022 - Now)
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
 > * **🦁 Lion's Project - Discord bot** (My first Discord bot, created in discord.js v14)
+> * **🦁 Lion AI** (Experiment to make a AI using python)
+<br>
 <h2 align="center">📱 Socials</h2>
 <p align="center">
   <a href="mailto:mrlion@lionsproject.eu"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
