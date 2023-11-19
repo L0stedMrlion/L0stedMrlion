@@ -4,7 +4,7 @@
 
 > 🦁 I'm a Lion
 > 
-> 👨‍🎓 I am currently learning JS, TS and PHP
+> 👨‍🎓 I am currently learning javascript, html and css
 > 
 > 🎥 Twitch Streamer
 >
@@ -27,7 +27,7 @@
 > * **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2021 - 2022)
 > * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me, 2022 - Now)
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
-> * **🦁 Lion's Project - Discord bot** (My first Discord bot, created in discord.js v14)
+> * **🦁 Lion's Project - Discord bot** (My first Discord bot, created in discord.js v14- termed now is 2.0)
 > * **🦁 Lion AI** (Experiment to make a AI using python)
 <br>
 <h2 align="center">📱 Socials</h2>
