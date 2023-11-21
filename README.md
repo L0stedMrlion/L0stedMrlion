@@ -23,7 +23,7 @@
 
 <h2 align="center">💼 My Projects</h2>
 
-> * **🦁 Mrlion's Portfolio** (My portfolio, my first portfolio, you can find it [here](https://l0stedmrlion.github.io/portfolio/)) 
+> * **🦁 Mrlion's Portfolio** (My portfolio, my first portfolio, site is now not aviable; you can see some screenshots in portfolio repo.) 
 > * **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2021 - 2022)
 > * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me, 2022 - Now)
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
