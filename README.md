@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L0stedMrlion&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"/>
   <img src="https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&locale=en&theme=github_dark_dimmed"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lostedmrlion&theme=github_dark_dimmed"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lostedmrlion&theme=github_dark_dimmed&layout=compact"/>
 </p>
 
 
