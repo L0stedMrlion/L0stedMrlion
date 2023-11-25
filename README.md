@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-
 <h3 align="center">💼 My Projects</h3>
 
 > * **🦁 Mrlion's Portfolio** (My portfolio, my first portfolio, site is now not aviable; you can see some screenshots in portfolio repo.) 
@@ -39,7 +38,7 @@
 > * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
 > * **🦁 Lion's Project - Discord bot** (My first Discord bot, created in discord.js v14- termed now is 2.0)
 > * **🦁 Lion AI** (Experiment to make a AI using python)
-<br>
+
 <h3 align="center">📱 Socials</h3>
 <p align="center">
   <a href="mailto:mrlion@lionsproject.eu"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
