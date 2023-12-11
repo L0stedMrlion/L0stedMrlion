@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mrlion</h1>
-<h2 align="center">👀 About me</h2>
-
-> 🦁 I'm a Lion
-> 
-> 👨‍🎓 I am currently learning javascript, html and css
-> 
-> 🎥 Twitch Streamer
->
 
 <h3 align="center">🛠️ Languages & Libraries use for my project</h3>
 <p align="center"> 
@@ -46,26 +38,26 @@
 
 <h3 align="center">💼 My Projects</h3>
 
-> * **🦁 Mrlion's Portfolio** (My portfolio, my first portfolio, site is now not aviable; you can see some screenshots in portfolio repo.) 
-> * **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server, project renamed to **🦁 Lion's Project**, 2021 - 2022)
-> * **🦁 Lion's Project** (1.20.x Minecraft server made for fun for my friend and me, 2022 - Now)
-> * **🦁 Lion's Project - Web** (My first web I created, work in proggress!)
-> * **🦁 Lion's Project - Discord bot** (My first Discord bot, created in discord.js v14- termed now is 2.0)
-> * **🦁 Lion AI** (Experiment to make a AI using python)
+* **🦁 Mrlion's Portfolio** (My first portfolio; the site is no longer available, but you can see some screenshots in the portfolio repo.)
+* **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server; project renamed to **🦁 Lion's Project**, 2021 - 2022)
+* **🦁 Lion's Project** (1.20.x Minecraft server created for fun with my friend, 2022 - Now)
+* **🦁 Lion's Project - Web** (My first web project; work in progress!)
+* **🦁 Lion's Project - Discord bot** (My first Discord bot, initially created in discord.js v14; now using version 2.0)
 
 <h3 align="center">📱 Socials</h3>
 <p align="center">
   <a href="mailto:mrlion@lionsproject.eu"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://discord.com/users/710549603216261141"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.twitch.tv/lostedmrlion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"</a>
-  <a href="https://www.youtube.com/channel/UCY7VxDVOcwXRUyG-SUsDIOg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
-  <a href="https://twitter.com/lostedmrlion"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/real.mrlion/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</p>
 
 <h3 align="center">📊 My Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L0stedMrlion&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"/>
   <img src="https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&locale=en&theme=github_dark_dimmed"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lostedmrlion&theme=github_dark_dimmed&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L0stedMrlion&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"/>
+  <p align="center"><i>Wakatime started 1.12.2023!</i></p>
 </p>
 
 
