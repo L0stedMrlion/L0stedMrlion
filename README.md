@@ -38,10 +38,10 @@
 <h3 align="center">💼 My Projects</h3>
 
 * **🦁 Mrlion's Portfolio** (My first portfolio; the site is no longer available, but you can see some screenshots in the portfolio repo.)
-* **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server; project renamed to **🦁 Lion's Project**, 2021 - 2022)
-* **🦁 Lion's Project** (1.20.x Minecraft server created for fun with my friend, 2022 - Now)
-* **🦁 Lion's Project - Web** (My first web project; work in progress!)
-* **🦁 Lion's Project - Discord bot** (My first Discord bot, initially created in discord.js v14; now using version 2.0)
+* **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server; project renamed to **🦁 Lion's Project**, 2021 - 2022; ended)
+* **🦁 Lion's Project - Web** (My first web project; work in progress; terminated)
+* **🦁 Lion's Project - Discord bot** (My first Discord bot, initially created in discord.js v14; now terminated)
+* **🦁 Lion Dev - Porfolio** (Site about me, not like portfolio, Inspirated by Twlite)
 
 <h3 align="center">📱 Socials</h3>
 <p align="center">
