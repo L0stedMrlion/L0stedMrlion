@@ -33,13 +33,13 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
 
+
 <h3 align="center">💼 My Projects</h3>
 
-* **🦁 Mrlion's Portfolio** (My first portfolio; the site is no longer available, but you can see some screenshots in the portfolio repo.)
-* **🌌 ChillMC** (Minecraft 1.19.2 Modern Survival server; project renamed to **🦁 Lion's Project**, 2021 - 2022; ended)
-* **🦁 Lion's Project - Web** (My first web project; work in progress; terminated)
-* **🦁 Lion's Project - Discord bot** (My first Discord bot, initially created in discord.js v14; now terminated)
-* **🦁 Lion Dev - Porfolio** (Site about me, not like portfolio, Inspirated by Twlite)
+* **💫 ChillMC** (Minecraft server project; project renamed to **🦁 Lion's Project**, 31. July 2022 - 2023)
+* **🦁 Lion's Project** (Project mainly to make a community from ChillMC, 2023 - now)
+* **🦁 Lion's Project - Discord Bot(s)** (First projects on 🦁 Lion's Project)
+* **🦁 Mrlion's Dev Portfolio** (First public in React, mainly inspirated by twlite)
 
 <h3 align="center">📱 Socials</h3>
 <p align="center">
