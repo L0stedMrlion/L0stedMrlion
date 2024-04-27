@@ -41,6 +41,7 @@
 * **🦁 Lion's Project** (Project mainly to make a community from ChillMC, 2023 - now)
 * **🦁 Lion's Project - Discord Bot(s)** (First projects on 🦁 Lion's Project)
 * **🦁 Mrlion's Dev Portfolio** (First public in React, mainly inspirated by twlite)
+* **🦁 Lion Police Roleplay™** (FiveM Roleplay Scripts, first time using Lua, 10.3.2024 - now)
 
 <h3 align="center">📱 Socials</h3>
 <p align="center">
