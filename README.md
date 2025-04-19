@@ -11,17 +11,11 @@
   <img src="https://skillicons.dev/icons?i=lua,js,ts,py" />
 </p>
 
-<h3>📱 Contact me</h3>
-<p>
-  <a href="mailto:mrlion4202@gmail.com" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  <a href="https://discord.com/users/710549603216261141" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>
-  <a href="https://www.instagram.com/kresta.david/" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
+<h3 align="left">📱 Contact me</h3>
+<p align="left">
+  <a href="mailto:mrlion4202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://discord.com/users/710549603216261141"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="https://www.instagram.com/kresta.david/"><img src="https://skillicons.dev/icons?i=instagram"</a>
 </p>
 
 <h3 align="left">📊 My Stats</h3>
