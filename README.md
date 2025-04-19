@@ -8,7 +8,7 @@
 
 <h3>🛠️ Languages & Tools</h3>
 <p> 
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,py,discordjs,nodejs" />
 </p>
 
 <h3 align="left">📱 Contact me</h3>
