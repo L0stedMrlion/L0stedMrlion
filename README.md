@@ -18,11 +18,3 @@
   <a href="https://www.instagram.com/kresta.david/"><img src="https://skillicons.dev/icons?i=instagram"</a>
 </p>
 
-<h3 align="left">📊 My Stats</h3>
-<p align="left">
-  <a href="https://github.com/L0stedMrlion"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=L0stedMrlion&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"/>
-  <a href="https://github.com/L0stedMrlion"><img src="https://github-readme-stats.vercel.app/api?username=L0stedMrlion&show_icons=true&theme=github_dark_dimmed"/>
-  <a href="https://github.com/L0stedMrlion"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=lostedmrlion&theme=github_dark_dimmed&layout=compact"/>
-</p>
-
-
